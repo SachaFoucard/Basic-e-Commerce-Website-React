@@ -1,6 +1,6 @@
 # basic-site-e-commerce
  
-https://ecommercebysachafoucard.netlify.app/
+https://ecommercesachafoucardexercise.netlify.app/
 
 <img width="852" alt="Capture d’écran 2023-02-02 à 17 43 43" src="https://user-images.githubusercontent.com/94567706/216373340-db6c03f7-340a-4b73-887e-99a7e7642bb2.png">
 <img width="852" alt="Capture d’écran 2023-02-02 à 17 44 00" src="https://user-images.githubusercontent.com/94567706/216373447-f304241f-a461-4119-bb18-093aed505e4e.png">
